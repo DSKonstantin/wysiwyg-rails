@@ -8,10 +8,6 @@ module WYSIWYG
           froala_editor.min.js
           plugins/*.js
           languages/*.js
-          froala_editor.min.css
-          froala_style.min.css
-          plugins/*.css
-          themes/*.css
         )
       end
     end
